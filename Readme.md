@@ -1,3 +1,6 @@
+How Stockfish Works: An Evaluation of the Databases Behind the Top Open-Source Chess Engine
+http://rin.io/chess-engine/
+
 ### Overview      [![Build Status](https://travis-ci.org/official-stockfish/Stockfish.svg?branch=master)](https://travis-ci.org/official-stockfish/Stockfish)
 
 Stockfish is a free UCI chess engine derived from Glaurung 2.1. It is
